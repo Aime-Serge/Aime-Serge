@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Aime Serge UKOBIZABA</h1>
-<h2 align="center">A Software Developer from Kigali, Rwanda. A Bachelor Computer Science(Software Engineering) Student at Arizona State University, forward-thinking SE at ALX Africa; future committing Full-Stack Software Engineer.
+<h2 align="center">A Software Front-End Engineer from Kigali, Rwanda. A Bachelor Computer Science(Software Engineering) Student at Arizona State University, forward-thinking SE at ALX Africa; future committing Full-Stack Software Engineer.
 Let’s build the future! 🚀 |#LifelongLearner #DoingHardThings
 </h2>
 <h3 align="center">Aime Serge Ukobizaba is a computer science high school graduate, a forward-thinking front-end engineer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
