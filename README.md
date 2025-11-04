@@ -1,12 +1,11 @@
 <h1 align="center">Hi there👋, I'm Aime Serge UKOBIZABA</h1>
-<h2 align="center">A Software Front-End Engineer from Kigali, Rwanda. A Bachelor Computer Science(Software Engineering) Student at Arizona State University, forward-thinking SE at ALX Africa; future committing Full-Stack Software Engineer.
+<h3 align="center">A Software Front-End Engineer from Kigali, Rwanda, forward-thinking SE at ALX Africa; future committing Full-Stack Software Engineer.
 Let’s build the future! 🚀 |#LifelongLearner #DoingHardThings
-</h2>
-<h3 align="center">Aime Serge Ukobizaba is a computer science high school graduate, a forward-thinking front-end engineer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
+</h3>
+<br> <br>
+<h3 align="center">Aime Serge Ukobizaba is a Computer Scientist|Software Engineer|Cloud Computing Enhanced Developer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
 His tech innovation brand integrates creativity, code, and strategic project management to simplify complexity and empower users. Driven by a belief in technology’s transformative potential, he leads scalable, efficient projects prioritising user engagement 
-and reliability. Aime’s foundation includes high school certifications in Software Development and Database Management (Python, SQL), enhanced by Udemy and MIT courses in UI/UX design and Agile methodologies. This hybrid skill set has streamlined development cycles by 30%, 
-  reduced user-testing iterations via empathy-driven design, and delivered scalable applications praised for clean, maintainable code. Combining analytical rigour with a designer’s empathy, Aime bridges technical and user needs, transforming visionary ideas into impactful digital 
-  solutions that resonate with businesses and end-users. His approach underscores a commitment to innovation that balances functionality, aesthetics, and trust.
+and reliability. His approach underscores a commitment to innovation that balances functionality, aesthetics, and trust.
   </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aime-serge&label=Profile%20views&color=0e75b6&style=flat" alt="aime-serge" /> </p>
@@ -15,7 +14,7 @@ and reliability. Aime’s foundation includes high school certifications in Soft
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **React Native, Next.js, and Tailwind CSS,....**
+- 💬 Ask me about **React, React Native, Next.js,Django, MySQL databases, typescript, Javascript,Python, Java, Sql, Symantic HTML5, CSS, and Tailwind CSS,C++, C,...**
 
 - 📫 How to reach me **aimeserge51260@gmail.com**
 
