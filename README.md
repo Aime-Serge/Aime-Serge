@@ -1,33 +1,98 @@
-<h1 align="center">Hi there👋, I'm Aime Serge UKOBIZABA</h1>
-<h3 align="center">A Software Front-End Engineer from Kigali, Rwanda, forward-thinking SE at ALX Africa; future committing Full-Stack Software Engineer.
-Let’s build the future! 🚀 |#LifelongLearner #DoingHardThings
-</h3>
-<br> <br>
-<h3 align="center">A Computer Scientist|Software Engineer|Cloud Computing Enhanced Developer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
-His tech innovation brand integrates creativity, code, and strategic project management to simplify complexity and empower users. Driven by a belief in technology’s transformative potential, he leads scalable, efficient projects prioritising user engagement 
-and reliability. His approach underscores a commitment to innovation that balances functionality, aesthetics, and trust.
-  </h3>
+# 🚀 Aime Serge UKOBIZABA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aime-serge&label=Profile%20views&color=0e75b6&style=flat" alt="aime-serge" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aimeserge_uk60" target="blank"><img src="https://img.shields.io/twitter/follow/aimeserge_uk60?logo=twitter&style=for-the-badge" alt="aimeserge_uk60" /></a> </p>
-
-- 🌱 I’m **Software Engineer**
-
-- 💬 Ask me about **React, React Native, Next.js,Django, MySQL & Postgressql databases, typescript, Javascript,Python, Java, Sql, Symantic HTML5, CSS, and Tailwind CSS,C++, C,...**
-
-- 📫 How to reach me **aimeserge51260@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aimeserge_uk60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aimeserge_uk60" height="30" width="40" /></a>
-<a href="https://fb.com/aime serge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aime serge" height="30" width="40" /></a>
-<a href="https://instagram.com/aime_serge02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aime_serge02" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+Aime+Serge+UKOBIZABA;💻+Front-End+Engineer+%7C+Creative+Technologist;🚀+Future+Full-Stack+Engineer+Crafting+Impactful+Solutions;✨+Building+Modern+Web+&+Mobile+Experiences" alt="Animated Gradient Portfolio Banner" style="background: linear-gradient(90deg, #36BCF7, #FF5C8D, #FFD93D); -webkit-background-clip: text; color: transparent;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aime-serge&show_icons=true&locale=en&layout=compact" alt="aime-serge" /></p>
+## 🧭 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aime-serge&show_icons=true&locale=en" alt="aime-serge" /></p>
+I design and build **clean, accessible, scalable** digital experiences driven by modern UI/UX patterns and engineering principles.  
+My mission: **merge creativity, code, and human-centered problem-solving to empower users.**
+
+💡 Passionate about product design, system thinking, and seamless user experiences.  
+🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
+🚀 Trained at ALX Africa — pushing toward full-stack mastery.
+
+---
+
+## ⚡ What I Do
+
+- **Front-End Engineering:** React · Next.js · TypeScript · Tailwind CSS  
+- **API & Backend Engineering:** Django · DRF · Node.js  
+- **Mobile Development:** React Native  
+- **Databases & Cloud:** PostgreSQL · MySQL · MongoDB · AWS  
+- **UI Craftsmanship:** Figma · Accessibility · Responsive Layouts  
+- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript  
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Highlights |
+|--------|------------|
+| **Project 1** ([Repo Link](#)) | Brief description of project 1. |
+| **Project 2** ([Repo Link](#)) | Brief description of project 2. |
+| **Project 3** ([Repo Link](#)) | Brief description of project 3. |
+| **Project 4** ([Repo Link](#)) | Brief description of project 4. |
+
+> ⚙️ Replace placeholders with actual repo URLs and descriptions.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,aws,docker" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME>&theme=algolia&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB_USERNAME>&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏅 Google Skills & Achievements
+
+<!-- GOOGLE_BADGES_START -->
+<p align="center">
+  <!-- Auto-updated badges via GitHub Action -->
+  Loading badges...
+</p>
+<!-- GOOGLE_BADGES_END -->
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/aimeserge_uk60"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://instagram.com/aime_serge02"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="mailto:aimeserge51260@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
+
+---
+
+## 🏁 Final Note
+
+Thanks for visiting! I continuously explore new technologies and build meaningful solutions.  
+If you’re working on something exciting and need a creative engineer, I’d love to connect.
