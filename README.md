@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your preferred banner image -->
-  <img src="https://gemini.google.com/share/882cb074e489" width="100%" alt="Banner"/>
+  <img src="https://github.com/Aime-Serge/Aime-Serge/blob/main/Aime_Serge_technical%20banner.png" width="100%" alt="Banner"/>
 </p>
 
 ---
