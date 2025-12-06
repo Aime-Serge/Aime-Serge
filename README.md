@@ -9,27 +9,26 @@
 ## 🧭 About Me
 
 I design and build **clean, accessible, scalable** digital experiences driven by modern UI/UX patterns and engineering principles.  
-🌍 Based in Kigali, Rwanda — ALX Africa trained, pushing toward full-stack mastery.  
-💡 Passionate about product design, system thinking, and intuitive user experiences.
+My mission: **merge creativity, code, and human-centered problem-solving to empower users.**
+
+💡 Passionate about product design, system thinking, and seamless user experiences.  
+🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
+🚀 Trained at ALX Africa — pushing toward full-stack mastery.
 
 ---
 
-<details>
-<summary>⚡ What I Do (Click to Expand)</summary>
+## ⚡ What I Do
 
-- **Front-End:** React · Next.js · TypeScript · Tailwind CSS  
-- **Backend & API:** Django · DRF · Node.js · Express  
+- **Front-End Engineering:** React · Next.js · TypeScript · Tailwind CSS  
+- **API & Backend Engineering:** Django · DRF · Node.js  
 - **Mobile Development:** React Native  
 - **Databases & Cloud:** PostgreSQL · MySQL · MongoDB · AWS  
-- **UI/UX Tools:** Figma · Accessibility · Responsive Layouts  
-- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript
-
-</details>
+- **UI Craftsmanship:** Figma · Accessibility · Responsive Layouts  
+- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript  
 
 ---
 
-<details>
-<summary>🌟 Featured Projects (Click to Expand)</summary>
+# 🌟 Featured Projects
 
 | Project | Highlights |
 |--------|------------|
@@ -38,14 +37,11 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 | **Project 3** ([Repo Link](#)) | Brief description of project 3. |
 | **Project 4** ([Repo Link](#)) | Brief description of project 4. |
 
-> ⚙️ Replace placeholders with actual repository links and descriptions.
-
-</details>
+> ⚙️ Replace placeholders with actual repo URLs and descriptions.
 
 ---
 
-<details>
-<summary>🛠️ Tech Stack (Click to Expand)</summary>
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma" />
@@ -53,12 +49,9 @@ I design and build **clean, accessible, scalable** digital experiences driven by
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,aws,docker" />
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>📊 GitHub Insights (Click to Expand)</summary>
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -76,12 +69,9 @@ I design and build **clean, accessible, scalable** digital experiences driven by
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>🏅 Google Skills & Achievements (Click to Expand)</summary>
+## 🏅 Google Skills & Achievements
 
 <!-- GOOGLE_BADGES_START -->
 <p align="center">
@@ -89,8 +79,6 @@ I design and build **clean, accessible, scalable** digital experiences driven by
   Loading badges...
 </p>
 <!-- GOOGLE_BADGES_END -->
-
-</details>
 
 ---
 
