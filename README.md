@@ -4,30 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+Aime+Serge+UKOBIZABA;💻+Front-End+Engineer+%7C+Creative+Technologist;🚀+Future+Full-Stack+Engineer+Crafting+Impactful+Solutions;✨+Building+Modern+Web+&+Mobile+Experiences" alt="Animated Gradient Portfolio Banner" style="background: linear-gradient(90deg, #36BCF7, #FF5C8D, #FFD93D); -webkit-background-clip: text; color: transparent;" />
 </p>
 
-<!-- Floating emojis with hover animations -->
-<p align="center">
-  <span style="font-size: 30px; display:inline-block; animation: floatEmoji 3s ease-in-out infinite alternate; transition: transform 0.3s;">💡</span>
-  <span style="font-size: 28px; display:inline-block; animation: floatEmoji2 4s ease-in-out infinite alternate; transition: transform 0.3s;">🚀</span>
-  <span style="font-size: 26px; display:inline-block; animation: floatEmoji 2.5s ease-in-out infinite alternate; transition: transform 0.3s;">🖥️</span>
-  <span style="font-size: 30px; display:inline-block; animation: floatEmoji2 3.5s ease-in-out infinite alternate; transition: transform 0.3s;">🎯</span>
-</p>
-
-<style>
-@keyframes floatEmoji {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-12px); }
-  100% { transform: translateY(0px); }
-}
-@keyframes floatEmoji2 {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-span:hover {
-  transform: scale(1.2) rotate(10deg);
-}
-</style>
-
 ---
 
 ## 🧭 About Me
@@ -62,6 +38,8 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 | **Project 3** ([Repo Link](#)) | Brief description of project 3. |
 | **Project 4** ([Repo Link](#)) | Brief description of project 4. |
 
+> ⚙️ Replace placeholders with actual repository links and descriptions.
+
 </details>
 
 ---
@@ -84,6 +62,8 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 | **AWS**          | ![70](https://progress-bar.dev/70/?title=AWS&color=36BCF7) |
 | **Figma**        | ![85](https://progress-bar.dev/85/?title=Figma&color=36BCF7) |
 
+> ✅ Adjust percentages to reflect your actual skill levels.
+
 </details>
 
 ---
@@ -92,19 +72,19 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 <summary>📊 GitHub Insights (Click to Expand)</summary>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aime-Serge&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://streak-stats.demolab.com?user=Aime-Serge&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aime-Serge&theme=algolia&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aime-Serge&theme=algolia&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aime-Serge&theme=react-dark&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aime-Serge&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aime-Serge&layout=compact&theme=tokyonight&hide_border=true" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aime-Serge&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 </details>
@@ -114,10 +94,12 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 <details>
 <summary>🏅 Google Skills & Achievements (Click to Expand)</summary>
 
+<!-- GOOGLE_BADGES_START -->
 <p align="center">
   <!-- Auto-updated badges via GitHub Action -->
   Loading badges...
 </p>
+<!-- GOOGLE_BADGES_END -->
 
 </details>
 
