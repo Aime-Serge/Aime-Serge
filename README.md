@@ -1,19 +1,24 @@
 # 🚀 Aime Serge UKOBIZABA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hi+there,+I'm+Aime+Serge+UKOBIZABA;💻+Front-End+Engineer+%7C+Creative+Technologist;🚀+Future+Full-Stack+Engineer+Crafting+Impactful+Solutions;✨+Building+Modern+Web+&+Mobile+Experiences" alt="Animated Gradient Portfolio Banner" style="background: linear-gradient(90deg, #36BCF7, #FF5C8D, #FFD93D); -webkit-background-clip: text; color: transparent;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Front-End+Engineer+%7C+Creative+Technologist;Software+Engineer+%7C+Cloud+Enabled+Developer;Human-Centered+Digital+Experience+Builder;Future+Full-Stack+Engineer+Crafting+Impactful+Solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Replace with your preferred banner image -->
+  <img src="https://i.imgur.com/1ZQZ1Zm.png" width="100%" alt="Banner"/>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I design and build **clean, accessible, scalable** digital experiences driven by modern UI/UX patterns and engineering principles.  
-My mission: **merge creativity, code, and human-centered problem-solving to empower users.**
+I design and build **clean, accessible, scalable** digital experiences driven by strong engineering principles and modern UI/UX patterns.  
+My mission: **merge creativity, code, and human-centered problem-solving to build tools that empower people.**
 
 💡 Passionate about product design, system thinking, and seamless user experiences.  
 🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
-🚀 Trained at ALX Africa — pushing toward full-stack mastery.
+🚀 Trained at ALX Africa — always pushing toward full‑stack mastery.
 
 ---
 
@@ -22,9 +27,11 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
 - **Front-End Engineering:** React · Next.js · TypeScript · Tailwind CSS  
 - **API & Backend Engineering:** Django · DRF · Node.js  
 - **Mobile Development:** React Native  
-- **Databases & Cloud:** PostgreSQL · MySQL · MongoDB · AWS  
-- **UI Craftsmanship:** Figma · Accessibility · Responsive Layouts  
-- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript  
+- **Database & Cloud:** PostgreSQL · MySQL · MongoDB · AWS  
+- **UI Craftsmanship:** Figma · accessibility · responsive layouts  
+- **System Design Foundations & Clean Architecture**
+
+I enjoy transforming complex ideas into intuitive solutions.
 
 ---
 
@@ -37,12 +44,21 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
 | **Project 3** ([Repo Link](#)) | Brief description of project 3. |
 | **Project 4** ([Repo Link](#)) | Brief description of project 4. |
 
-> ⚙️ Replace placeholders with actual repo URLs and descriptions.
+> ⚙️ Replace the placeholders above with your real GitHub repository URLs and project descriptions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
+**Frontend:** React · Next.js · React Native · JavaScript · TypeScript · Tailwind CSS · SASS · HTML5 · CSS3 · Bootstrap · Figma  
+**Backend:** Django · Django REST Framework · Node.js · Express · Flask  
+**Databases:** PostgreSQL · MySQL · MongoDB · SQL Server · Oracle  
+**Cloud & DevOps:** AWS · Docker · Git · GitHub · CI/CD basics  
+**Languages:** Python · Java · C · C++ · Swift · PHP
+
+---
+
+## 🎨 Tech Icons (Minimal & Clean)  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma" />
   <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,java,c,cpp" />
@@ -75,7 +91,7 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
 
 <!-- GOOGLE_BADGES_START -->
 <p align="center">
-  <!-- Auto-updated badges via GitHub Action -->
+  <!-- Badges will be auto-updated here by GitHub Action -->
   Loading badges...
 </p>
 <!-- GOOGLE_BADGES_END -->
@@ -94,5 +110,6 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
 
 ## 🏁 Final Note
 
-Thanks for visiting! I continuously explore new technologies and build meaningful solutions.  
+Thanks for visiting! I’m continuously exploring new technologies and building meaningful solutions.  
 If you’re working on something exciting and need a creative engineer, I’d love to connect.
+
