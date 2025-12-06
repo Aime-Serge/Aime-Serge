@@ -3,7 +3,7 @@
 Let’s build the future! 🚀 |#LifelongLearner #DoingHardThings
 </h3>
 <br> <br>
-<h3 align="center">Aime Serge Ukobizaba is a Computer Scientist|Software Engineer|Cloud Computing Enhanced Developer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
+<h3 align="center">A Computer Scientist|Software Engineer|Cloud Computing Enhanced Developer at ALX Africa, and a future full-stack engineer committed to designing intuitive digital tools using technical expertise and human-centred design. 
 His tech innovation brand integrates creativity, code, and strategic project management to simplify complexity and empower users. Driven by a belief in technology’s transformative potential, he leads scalable, efficient projects prioritising user engagement 
 and reliability. His approach underscores a commitment to innovation that balances functionality, aesthetics, and trust.
   </h3>
@@ -12,9 +12,9 @@ and reliability. His approach underscores a commitment to innovation that balanc
 
 <p align="left"> <a href="https://twitter.com/aimeserge_uk60" target="blank"><img src="https://img.shields.io/twitter/follow/aimeserge_uk60?logo=twitter&style=for-the-badge" alt="aimeserge_uk60" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m **Software Engineer**
 
-- 💬 Ask me about **React, React Native, Next.js,Django, MySQL databases, typescript, Javascript,Python, Java, Sql, Symantic HTML5, CSS, and Tailwind CSS,C++, C,...**
+- 💬 Ask me about **React, React Native, Next.js,Django, MySQL & Postgressql databases, typescript, Javascript,Python, Java, Sql, Symantic HTML5, CSS, and Tailwind CSS,C++, C,...**
 
 - 📫 How to reach me **aimeserge51260@gmail.com**
 
