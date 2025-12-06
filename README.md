@@ -9,26 +9,27 @@
 ## 🧭 About Me
 
 I design and build **clean, accessible, scalable** digital experiences driven by modern UI/UX patterns and engineering principles.  
-My mission: **merge creativity, code, and human-centered problem-solving to empower users.**
-
-💡 Passionate about product design, system thinking, and seamless user experiences.  
-🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
-🚀 Trained at ALX Africa — pushing toward full-stack mastery.
+🌍 Based in Kigali, Rwanda — ALX Africa trained, pushing toward full-stack mastery.  
+💡 Passionate about product design, system thinking, and intuitive user experiences.
 
 ---
 
-## ⚡ What I Do
+<details>
+<summary>⚡ What I Do (Click to Expand)</summary>
 
-- **Front-End Engineering:** React · Next.js · TypeScript · Tailwind CSS  
-- **API & Backend Engineering:** Django · DRF · Node.js  
+- **Front-End:** React · Next.js · TypeScript · Tailwind CSS  
+- **Backend & API:** Django · DRF · Node.js · Express  
 - **Mobile Development:** React Native  
 - **Databases & Cloud:** PostgreSQL · MySQL · MongoDB · AWS  
-- **UI Craftsmanship:** Figma · Accessibility · Responsive Layouts  
-- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript  
+- **UI/UX Tools:** Figma · Accessibility · Responsive Layouts  
+- **Languages:** Python · Java · C · C++ · PHP · Swift · JavaScript
+
+</details>
 
 ---
 
-# 🌟 Featured Projects
+<details>
+<summary>🌟 Featured Projects (Click to Expand)</summary>
 
 | Project | Highlights |
 |--------|------------|
@@ -37,41 +38,61 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
 | **Project 3** ([Repo Link](#)) | Brief description of project 3. |
 | **Project 4** ([Repo Link](#)) | Brief description of project 4. |
 
-> ⚙️ Replace placeholders with actual repo URLs and descriptions.
+> ⚙️ Replace placeholders with actual repository links and descriptions.
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary>🛠️ Tech Stack & Skill Levels (Click to Expand)</summary>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma" />
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,python,java,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,aws,docker" />
-</p>
+| Technology       | Skill Level |
+|-----------------|-------------|
+| **React**        | ![90](https://progress-bar.dev/90/?title=React&color=36BCF7) |
+| **Next.js**      | ![85](https://progress-bar.dev/85/?title=Next.js&color=36BCF7) |
+| **TypeScript**   | ![85](https://progress-bar.dev/85/?title=TypeScript&color=36BCF7) |
+| **JavaScript**   | ![95](https://progress-bar.dev/95/?title=JavaScript&color=36BCF7) |
+| **Tailwind CSS** | ![80](https://progress-bar.dev/80/?title=TailwindCSS&color=36BCF7) |
+| **Django**       | ![75](https://progress-bar.dev/75/?title=Django&color=36BCF7) |
+| **Node.js**      | ![80](https://progress-bar.dev/80/?title=Node.js&color=36BCF7) |
+| **Python**       | ![90](https://progress-bar.dev/90/?title=Python&color=36BCF7) |
+| **MySQL**        | ![80](https://progress-bar.dev/80/?title=MySQL&color=36BCF7) |
+| **MongoDB**      | ![75](https://progress-bar.dev/75/?title=MongoDB&color=36BCF7) |
+| **AWS**          | ![70](https://progress-bar.dev/70/?title=AWS&color=36BCF7) |
+| **Figma**        | ![85](https://progress-bar.dev/85/?title=Figma&color=36BCF7) |
 
----
+> ✅ Adjust percentages to reflect your actual skill levels.
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME>&theme=algolia&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB_USERNAME>&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</details>
 
 ---
 
-## 🏅 Google Skills & Achievements
+<details>
+<summary>📊 GitHub Insights (Click to Expand)</summary>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aime-Serge&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aime-Serge&theme=algolia&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aime-Serge&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aime-Serge&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary>🏅 Google Skills & Achievements (Click to Expand)</summary>
 
 <!-- GOOGLE_BADGES_START -->
 <p align="center">
@@ -79,6 +100,8 @@ My mission: **merge creativity, code, and human-centered problem-solving to empo
   Loading badges...
 </p>
 <!-- GOOGLE_BADGES_END -->
+
+</details>
 
 ---
 
