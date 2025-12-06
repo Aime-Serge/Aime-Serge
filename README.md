@@ -18,7 +18,7 @@ My mission: **merge creativity, code, and human-centered problem-solving to buil
 
 💡 Passionate about product design, system thinking, and seamless user experiences.  
 🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
-🚀 Trained at ALX Africa — always pushing toward full‑stack mastery.
+🚀 Trained at ALX Africa & Google — always pushing toward full‑stack mastery.
 
 ---
 
