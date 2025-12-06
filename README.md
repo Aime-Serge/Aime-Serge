@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your preferred banner image -->
-  <img src="https://i.imgur.com/1ZQZ1Zm.png" width="100%" alt="Banner"/>
+  <img src="https://gemini.google.com/share/882cb074e489" width="100%" alt="Banner"/>
 </p>
 
 ---
