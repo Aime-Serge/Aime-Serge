@@ -1,7 +1,7 @@
 # 🚀 Aime Serge UKOBIZABA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Front-End+Engineer+%7C+Creative+Technologist;Software+Engineer+%7C+Cloud+Enabled+Developer;Human-Centered+Digital+Experience+Builder;Future+Full-Stack+Engineer+Crafting+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Front-End+Specialist+%7C+Creative+Technologist;Software+Engineer+%7C+Cloud+Enabled+Developer;Human-Centered+Digital+Experience+Builder;Future+Full-Stack+Engineer+Crafting+Impactful+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
