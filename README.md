@@ -17,8 +17,8 @@ I design and build **clean, accessible, scalable** digital experiences driven by
 My mission: **merge creativity, code, and human-centered problem-solving to build tools that empower people.**
 
 💡 Passionate about product design, system thinking, and seamless user experiences.  
-🌍 Based in Kigali, Rwanda — engineering with a global mindset.  
-🚀 Trained at ALX Africa & Google — always pushing toward full‑stack mastery.
+🌍 Based in Kigali, Rwanda - engineering with a global mindset.  
+🚀 Trained at ALX Africa & Google - always pushing toward full‑stack mastery.
 
 ---
 
