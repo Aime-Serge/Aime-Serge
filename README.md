@@ -13,6 +13,19 @@
 
 ## 🧭 About Me
 
+Most startups struggle to build inclusive, secure, available ,and scalable systems that can grow with their users and perform reliably in real-world environments.
+
+I am a Software Engineer focused on building secure and scalable cloud applications, with expertise in backend systems, API development, and full-stack engineering. I design solutions that are not only functional but also resilient, maintainable, and ready for long-term growth. 
+
+My work centers on: 
+• Backend &amp; API systems for scalable applications 
+• Cloud-powered architectures for performance and reliability 
+• AI-powered solutions, including AI agents and intelligent systems 
+• Mobile and full-stack application development 
+• Cybersecurity-aware engineering and secure system design With training from ALX and exposure to modern technologies including cloud platforms and AI systems. 
+
+I bring a systems-thinking approach to solving complex problems and building impactful digital solutions. I combine software engineering, cloud architecture, and cybersecurity principles to deliver applications that meet both technical and business needs.If you're building a product or startup and need a Software Engineer to develop secure, scalable backend systems, APIs, AI-powered solutions, or full-stack applications, I’d be glad to connect. 
+
 I design and build **clean, accessible, scalable** digital experiences driven by strong engineering principles and modern UI/UX patterns.  
 My mission: **merge creativity, code, and human-centered problem-solving to build tools that empower people.**
 
