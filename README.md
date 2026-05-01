@@ -89,14 +89,28 @@ I am a **Google Cloud Certified** learner with a focus on Generative AI, MLOps, 
 - 🔐 **Security:** Model Armor: Securing AI Deployments, Intro to Security in AI
 - 📈 **MLOps:** MLOps for Generative AI, MLOps with Vertex AI
 
+
 </details>
 
 ### 🎓 ALX Africa
-**Software Engineering Program**
+**Software Engineering & Specialized Tracks**
+
 <p align="left">
   <a href="https://savanna.alxafrica.com/certificates/zch39pE5rL" target="_blank">
-    <img src="https://img.shields.io/badge/ALX_Africa-Certificate-blue?style=for-the-badge" alt="ALX Certificate" />
+    <img src="https://img.shields.io/badge/ALX-Software_Engineering-blue?style=for-the-badge" alt="ALX SE Certificate" />
   </a>
+</p>
+
+<details>
+<summary>Specializations & Milestones (Click to Expand)</summary>
+
+- 📜 [Certificate 8FX5JxCRNz](https://savanna.alxafrica.com/certificates/8FX5JxCRNz)
+- 📜 [Certificate 9nfSe23Xc5](https://savanna.alxafrica.com/certificates/9nfSe23Xc5)
+- 📜 [Certificate X76B2RS8Hm](https://savanna.alxafrica.com/certificates/X76B2RS8Hm)
+- 📜 [Certificate cyMGmFJhEs](https://savanna.alxafrica.com/certificates/cyMGmFJhEs)
+- 📜 [Certificate RBLzcY8GMT](https://savanna.alxafrica.com/certificates/RBLzcY8GMT)
+
+</details>
 </p>
 
 ---
