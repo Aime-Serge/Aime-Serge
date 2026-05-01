@@ -70,6 +70,37 @@ I am a **Software Engineer & Cloud Architect** dedicated to building secure, sca
 
 ---
 
+## 🏅 Certifications & Badges
+
+### ☁️ Google Cloud Skills Boost
+I am a **Google Cloud Certified** learner with a focus on Generative AI, MLOps, and Cloud Security.
+
+<p align="left">
+  <a href="https://www.skills.google/public_profiles/ea12c24b-9b3d-43a0-b983-96cd33bd7b40" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Profile" />
+  </a>
+</p>
+
+<details>
+<summary>Key Achievements (Click to Expand)</summary>
+
+- 🤖 **Generative AI:** Create GenAI Apps, Build GenAI Agents with Vertex AI
+- ⚙️ **Gemini:** Gemini for Cloud Architects, Gemini for Application Developers
+- 🔐 **Security:** Model Armor: Securing AI Deployments, Intro to Security in AI
+- 📈 **MLOps:** MLOps for Generative AI, MLOps with Vertex AI
+
+</details>
+
+### 🎓 ALX Africa
+**Software Engineering Program**
+<p align="left">
+  <a href="https://savanna.alxafrica.com/certificates/zch39pE5rL" target="_blank">
+    <img src="https://img.shields.io/badge/ALX_Africa-Certificate-blue?style=for-the-badge" alt="ALX Certificate" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -88,10 +119,10 @@ I am a **Software Engineer & Cloud Architect** dedicated to building secure, sca
 I'm actively looking for opportunities to collaborate on **Innovative Startups**, **Security-Focused Apps**, and **AI initiatives**.
 
 <p align="left">
-  <a href="https://linkedin.com/in/Aime-Serge" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/aimeserge_uk60" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/aimesergeukobizaba/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/aime__serge" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/></a>
   <a href="mailto:aimeserge51260@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/></a>
-  <a href="https://instagram.com/aime_serge02" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
+  <a href="https://instagram.com/_aime_serge" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
 </p>
 
 ---
