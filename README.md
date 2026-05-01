@@ -1,5 +1,5 @@
 # 🚀 Aime Serge UKOBIZABA
-### Full-Stack Engineer | Cloud Architect | AI System Designer
+### Software Engineer | Cybersecurity Analyst| Cloud Architect | Aspiring AI Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Scalable%2C+Secure+Digital+Solutions;AI-Powered+Systems+%7C+System+Design+Expert;Crafting+Human-Centered+Experiences" alt="Typing SVG"/>
@@ -38,7 +38,7 @@ I am a **Software Engineer & Cloud Architect** dedicated to building secure, sca
 ### ⚙️ Backend & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mongodb,mysql,aws,docker,git" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mongodb,mysql,aws,gcp,docker,git" />
   </a>
 </p>
 
@@ -52,6 +52,7 @@ I am a **Software Engineer & Cloud Architect** dedicated to building secure, sca
 | **Python/Django**| ![85](https://progress-bar.dev/85/?title=Mastery&color=36BCF7) |
 | **Node.js**      | ![80](https://progress-bar.dev/80/?title=Mastery&color=36BCF7) |
 | **Cloud (AWS)**  | ![75](https://progress-bar.dev/75/?title=Mastery&color=36BCF7) |
+| **Cloud (GCP)**  | ![75](https://progress-bar.dev/75/?title=Mastery&color=36BCF7) |
 
 </details>
 
