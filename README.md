@@ -104,12 +104,12 @@ I am a **Google Cloud Certified** learner with a focus on Generative AI, MLOps, 
 <details>
 <summary>Specializations & Milestones (Click to Expand)</summary>
 
-- 📜 [Certificate 8FX5JxCRNz](https://savanna.alxafrica.com/certificates/8FX5JxCRNz)
-- 📜 [Certificate 9nfSe23Xc5](https://savanna.alxafrica.com/certificates/9nfSe23Xc5)
-- 📜 [Certificate X76B2RS8Hm](https://savanna.alxafrica.com/certificates/X76B2RS8Hm)
-- 📜 [Certificate cyMGmFJhEs](https://savanna.alxafrica.com/certificates/cyMGmFJhEs)
-- 📜 [Certificate RBLzcY8GMT](https://savanna.alxafrica.com/certificates/RBLzcY8GMT)
-
+- 📜 [Software Engineering [Frontend Engineering] Certificate](https://savanna.alxafrica.com/certificates/8FX5JxCRNz)
+- 📜 [Professional Foundations Certificate](https://savanna.alxafrica.com/certificates/9nfSe23Xc5)
+- 📜 [Software Engineering [Backend Engineering] Certificate](https://savanna.alxafrica.com/certificates/cyMGmFJhEs)
+- 📜 [Cybersecurity Certificate](https://savanna.alxafrica.com/certificates/zch39pE5rL)
+- 📜 [Freelancer Academy Certicate](https://savanna.alxafrica.com/certificates/RBLzcY8GMT)
+- 📜 [AI Starter Kit Certificate](https://savanna.alxafrica.com/certificates/X76B2RS8Hm)
 </details>
 </p>
 
